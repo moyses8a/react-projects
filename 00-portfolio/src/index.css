@@ -232,6 +232,7 @@ main {
 .section .section-description {
   font-weight: bold;
   font-size: large;
+  text-align: center;
 }
 
 .center-title {

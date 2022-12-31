@@ -27,7 +27,7 @@ export default [
   {
     id: 1,
     title: 'React projects',
-    description: 'I follow a Youtube tutorial from "freecodecamp" and I completed all the excercises, I learn a lot!! thanks for the content.',
+    description: 'I follow a Youtube tutorial from "<a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&ab_channel=freeCodeCamp.org">freecodecamp</a>" and I completed all the excercises, I learned a lot!! <br/> Thanks <a href="https://www.youtube.com/codingaddict">John Smilga</a> for the course, I really appreciate all the effort.',
     projects: [
       {
         id: 1,

@@ -8,7 +8,7 @@ const Section = ({ title, projects, description }) => {
       <h2>{title}</h2>
       <div className="underline"></div>
       <br />
-      <p className="section-description">{description}</p>
+      <p className="section-description" dangerouslySetInnerHTML={{ __html: description }}></p>
     </div>
     <div className="projects">
       {
