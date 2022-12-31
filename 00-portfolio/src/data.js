@@ -34,35 +34,35 @@ export default [
         name: 'Birthday Reminder',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img01,
-        description: 'In this project I learned how to divide projecto in components'
+        description: 'In this project I learned how to divide the project into components'
       },
       {
         id: 2,
         name: 'Tours',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img02,
-        description: 'I did a web app to list some tours and I learn how to pass properties and make some actions throw components'
+        description: 'I made a web application to list some tours and learned how to pass properties and actions through components.'
       },
       {
         id: 3,
         name: 'Our Reviews',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img03,
-        description: 'In this project I learn how to display some tours in cards'
+        description: 'In this project I learned how to display some components dynamically.'
       },
       {
         id: 4,
         name: 'Accordion',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img04,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I made an example of content displayed as an accordion.'
       },
       {
         id: 5,
         name: 'Menu',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img05,
-        description: 'In this project I learned how to create content that change dinamically by select a filter'
+        description: 'In this project I learned how to create content that changes dynamically by selecting a filter.'
       },
       {
         id: 6,
@@ -76,7 +76,7 @@ export default [
         name: 'Slider',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img07,
-        description: 'In this project I learned how to display content in a slider, the template is very good and I learn how to apply useEffect to automatically go next slide.'
+        description: 'In this project I learned how to display content in a slider, the template is very good and I learned how to apply "useEffect" to automatically go to the next slide.'
       },
       {
         id: 8,
@@ -90,21 +90,21 @@ export default [
         name: 'Color Generator',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img09,
-        description: 'In this project I learned how work with some style dinamically and also how to manage colors, I made my own implementation to make visible the text on each color.'
+        description: 'In this project I learned how work with some style dynamically and also how to manage colors, I made my own implementation to make visible the text on each color.'
       },
       {
         id: 10,
         name: 'Grocery Bud',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img10,
-        description: 'This was a complete project, I learned how to manage a list of item: create, edit, view and remove.'
+        description: 'This was a complete project, I learned how to manage a list of items: create, edit, view and remove.'
       },
       {
         id: 11,
         name: 'Navbar',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img11,
-        description: 'In this project I learned how to create a navbar, which is a really common component of a project.'
+        description: 'In this project I learned how to create a Navbar, which is a really common component in a project.'
       },
       {
         id: 12,
@@ -139,14 +139,14 @@ export default [
         name: 'Markdown Preview',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img16,
-        description: 'In this project I reinforced what I learned making a markdown previsualizer.'
+        description: 'In this project I reinforced what I learned making a markdown previewer.'
       },
       {
         id: 17,
         name: 'Random Person',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img17,
-        description: 'In this project I reinforced what I learned making web page that shows a random person.'
+        description: 'In this project I reinforced what I learned making a web page that shows a random person.'
       },
       {
         id: 18,
@@ -160,14 +160,14 @@ export default [
         name: 'Stock Photos',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img19,
-        description: 'In this project I learned how to display photos and load more while user scroll down.'
+        description: 'In this project I learned how to display photos and load more as the user scrolls down.'
       },
       {
         id: 20,
         name: 'Dark Mode',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img20,
-        description: 'In this project I learned how to change classes of any tag and apply differents themes.'
+        description: 'In this project I learned how to change classes of any tag and how to apply differents themes.'
       },
       {
         id: 21,
@@ -181,14 +181,14 @@ export default [
         name: 'Hacker News',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img22,
-        description: 'In this project I reinforce what I learned building a complete app to show news from an api using all what I learn.'
+        description: 'In this project I reinforce what I learned building a complete app to show news from an api using all what I learned.'
       },
       {
         id: 23,
         name: 'Quiz',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img23,
-        description: 'In this project I learned how create a quiz with many stages for the user and I made my own implementation to show the correct answer after the user make his choice.'
+        description: 'In this project I created a quiz with many stages for the user and I made my own implementation to show the correct answer after the user make his choice.'
       },
     ]
   }
