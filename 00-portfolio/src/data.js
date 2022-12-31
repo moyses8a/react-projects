@@ -62,133 +62,133 @@ export default [
         name: 'Menu',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img05,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how to create content that change dinamically by select a filter'
       },
       {
         id: 6,
         name: 'Tabs',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img06,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I created a nice web page to show a developer profile info.'
       },
       {
         id: 7,
         name: 'Slider',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img07,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how to display content in a slider, the template is very good and I learn how to apply useEffect to automatically go next slide.'
       },
       {
         id: 8,
         name: 'Lorem Ipsum',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img08,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how to create a lorem ipsum generator, It is pretty simple but I learned how to validate data and use inputs.'
       },
       {
         id: 9,
         name: 'Color Generator',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img09,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how work with some style dinamically and also how to manage colors, I made my own implementation to make visible the text on each color.'
       },
       {
         id: 10,
         name: 'Grocery Bud',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img10,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'This was a complete project, I learned how to manage a list of item: create, edit, view and remove.'
       },
       {
         id: 11,
         name: 'Navbar',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img11,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how to create a navbar, which is a really common component of a project.'
       },
       {
         id: 12,
         name: 'Slider and Modal',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img12,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how "useContext" works to manage actions and make information available in all the project.'
       },
       {
         id: 13,
         name: 'Stripe Menu',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img13,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I continued practicing context to build a menu.'
       },
       {
         id: 14,
         name: 'Cart',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img14,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how to use "useReduce" in combination with "useContext" to build a cart.'
       },
       {
         id: 15,
         name: 'Cocktails',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img15,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how manage routes in a react project.'
       },
       {
         id: 16,
         name: 'Markdown Preview',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img16,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I reinforced what I learned making a markdown previsualizer.'
       },
       {
         id: 17,
         name: 'Random Person',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img17,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I reinforced what I learned making web page that shows a random person.'
       },
       {
         id: 18,
         name: 'Pagination',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img18,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I made a web page with pagination.'
       },
       {
         id: 19,
         name: 'Stock Photos',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img19,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how to display photos and load more while user scroll down.'
       },
       {
         id: 20,
         name: 'Dark Mode',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img20,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how to change classes of any tag and apply differents themes.'
       },
       {
         id: 21,
         name: 'Movies DB',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img21,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I reinforce what I learned building a web app with routes.'
       },
       {
         id: 22,
         name: 'Hacker News',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img22,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I reinforce what I learned building a complete app to show news from an api using all what I learn.'
       },
       {
         id: 23,
         name: 'Quiz',
         link: 'https://moyses8a-birthday-reminder.netlify.app/',
         image: img23,
-        description: 'In this project I learned how to display content like accordion'
+        description: 'In this project I learned how create a quiz with many stages for the user and I made my own implementation to show the correct answer after the user make his choice.'
       },
     ]
   }

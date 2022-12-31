@@ -11,7 +11,7 @@ function App() {
         <h1>code fortress</h1>
         <div className="intro-paragraphs">
           <p>Welcome to my <b>Code Fortress</b></p>
-          <p>Here I have all my projects that <br /> have help me to lean new things</p>
+          <p>Here I have all my projects that <br /> have help me to learn new things</p>
           <p>This is just the first version, I will continue improving this page and myself. 😁</p>
         </div>
       </article>
